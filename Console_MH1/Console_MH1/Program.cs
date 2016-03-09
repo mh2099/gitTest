@@ -10,7 +10,7 @@
     {
         static void Main()
         {
-
+            Console.WriteLine("AAA");
 
             Console.ReadKey();
         }
