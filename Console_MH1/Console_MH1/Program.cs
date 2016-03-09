@@ -10,7 +10,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("CCC");
+            Console.WriteLine("DDD");
 
             Console.ReadKey();
         }
