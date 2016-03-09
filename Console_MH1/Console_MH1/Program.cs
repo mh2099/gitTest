@@ -11,6 +11,7 @@
         static void Main()
         {
             Console.WriteLine("hello");
+            Console.WriteLine("world");
 
             Console.ReadKey();
         }
